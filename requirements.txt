@@ -5,4 +5,4 @@ pandas
 requests
 airportsdata
 geopy
-opensky-api
+git+https://github.com/openskynetwork/opensky-api-python.git@master#egg=opensky-api
