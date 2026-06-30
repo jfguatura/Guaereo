@@ -1,0 +1,9 @@
+streamlit
+streamlit-autorefresh
+streamlit-folium
+pandas
+requests
+airportsdata
+geopy
+folium
+tzdata
