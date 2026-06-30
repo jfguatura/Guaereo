@@ -1,8 +1,0 @@
-streamlit
-streamlit-folium
-streamlit-autorefresh
-pandas
-requests
-airportsdata
-geopy
-git+https://github.com/openskynetwork/opensky-api-python.git@master#egg=opensky-api
